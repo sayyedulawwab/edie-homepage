@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://keen-shaw-b09835.netlify.app">
       Demo
     </a>
     <span> | </span>
@@ -36,13 +36,13 @@
 
 ## Overview
 
-#### Desktop
+### Desktop
 
-![Desktop](./edie-desktop.png)
+ <img src="./edie-desktop.png" alt="desktop" style="width: 100%;margin: 0 auto" />
 
-#### Mobile
+### Mobile
 
-![Mobile](./edie-mobile.png)
+<img src="./edie-mobile.png" alt="mobile" style="width: 100%;margin: 0 auto" />
 
 ### Built With
 
