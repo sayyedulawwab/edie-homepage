@@ -38,11 +38,16 @@
 
 ### Desktop
 
- <img src="./edie-desktop.png" alt="desktop" style="width: 100%;margin: 0 auto" />
+<div align="center">
+
+ <img src="./edie-desktop.png" alt="desktop" />
+</div>
 
 ### Mobile
 
-<img src="./edie-mobile.png" alt="mobile" style="width: 100%;margin: 0 auto" />
+<div align="center">
+<img src="./edie-mobile.png" alt="mobile"  />
+</div>
 
 ### Built With
 
