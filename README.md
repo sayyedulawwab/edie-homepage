@@ -71,5 +71,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@sayyedulbappy](https://github.com/sayyedulbappy)
-- Twitter [@sayyedulbappy](https://twitter.com/sayyedulbappy)
+- GitHub [@sayyedulawwab](https://github.com/sayyedulawwab)
+- LinkedIn [@sayyedulawwab](https://www.linkedin.com/in/sayyedulawwab/)
